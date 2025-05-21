@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://skuplugs07.github.io/loyverse/sitemap.txt
